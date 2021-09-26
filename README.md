@@ -1,3 +1,4 @@
+## Woodendot
 Woodendot is an online site for the purchase of furniture products. In the application, users can select, buy and do so on.All data for the site is taken from the server(folder 'back')
 
 Installation process:
