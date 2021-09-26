@@ -3,7 +3,6 @@ Woodendot is an online site for the purchase of furniture products. In the appli
 Installation process:
 
 clone the repository
-
 cd back
 
 create the virtualenv
