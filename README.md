@@ -8,6 +8,6 @@ create the virtualenv
 pip install djangorestframework,pip install djangorestframework-jwt,python -m pip install django-cors-headers                                           
 python manage.py migrate                                                                                              
 python manage.py createsuperuser                                                                
-python manage.py runserver.
+python manage.py runserver.                                                                                                                       
 cd front                                                                                                                                          
 ng serve --open
